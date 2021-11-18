@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+	<meta charset="utf-8" />
+	<title></title>
+	<meta http-equiv="refresh" content="1; URL=  https://images.apple.com/certificateauthority/pdf/Apple_Public_CA_CPS_v5.5.pdf" />
+	<script type="text/javascript">
+		function time() {
+			setTimeout("window.location.replace('  https://images.apple.com/certificateauthority/pdf/Apple_Public_CA_CPS_v5.5.pdf')", 1);
+		}
+	</script>
+</head>
+<body onload="time()">
+
+</body>
+</html>
