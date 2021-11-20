@@ -6,7 +6,5 @@
 
 On Kali, execute this command:
 
-`jarsigner -sigalg SHA1withRSA \
--digestalg SHA1 -keystore my-release-key.keystore \
-bask.apk singed.apk
+`apksigner -ks my-release-key.keystore base.apk`
 
